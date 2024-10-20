@@ -2,10 +2,6 @@
 # ELocate ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
-A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
-
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
-
 Click on link below to have intro to ELocate :
 
 [Intro To Elocate Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
@@ -25,17 +21,6 @@ Here you can view the deployed version
 
 Click on link below to have demo of our prototype :
 [Prototype Video](https://youtu.be/3IN58Qo_FvA)
-
-## Setup
-
-To Setup this project run
-
-```bash
-git clone https://github.com/shuence/ELocate
-cd ELocate
-yarn
-yarn dev
-```
 
 ## Resources
 
@@ -99,16 +84,5 @@ by intelliswift.
 # Hi, We are Spam Byte! 👋
 
 
-## 🚀 About us
-
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
-
-- Krishna Dnyaneshwar Aute - [Krishna]()
-- Shubham Vishnu Pitekar - [Shuence](https://github.com/shuence)
-- Dayeeta Chakravorty - [Dayeeta]()
-- Samruddhi Shirish Giri - [Samruddhi]()
-- Siddhi Sudhakar Tribhuwan - [Siddhi]()
 
 ## Happy coding 💯
-
-Made with love from [Spam Byte](https://shuence.netlify.app) ❤️
