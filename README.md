@@ -2,10 +2,6 @@
 # ELocate ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
-Click on link below to have intro to ELocate :
-
-[Intro To Elocate Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
-
 
 ## Live Preview
 
