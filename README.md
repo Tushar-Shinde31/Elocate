@@ -7,6 +7,13 @@
 ## Live Preview
 Here you can view the deployed version of **ELocate**: [Live Preview](#)
 
+![Project Screenshot 1](![Screenshot (217)](https://github.com/user-attachments/assets/43286efe-f17e-4f7f-b96f-668ec5beffe2)
+)
+![Project Screenshot 2](![Screenshot (218)](https://github.com/user-attachments/assets/c088a72d-5c38-4533-8a4d-772b301dfb47)
+)
+![Project Screenshot 3](![Uploading Screenshot (219).png…]()
+)
+
 ---
 
 ## Videos
@@ -111,6 +118,14 @@ Building this project was an exciting and challenging journey during the **i-nno
 ## About Us
 
 Hi, we are **Spam Byte!** 👋
+
+🚀 A team from **Deogiri Institute of Engineering and Management Studies, Chh. Sambhajinagar**:
+
+- **Krishna Dnyaneshwar Aute** - Krishna
+- **Shubham Vishnu Pitekar** - Shuence
+- **Dayeeta Chakravorty** - Dayeeta
+- **Samruddhi Shirish Giri** - Samruddhi
+- **Siddhi Sudhakar Tribhuwan** - Siddhi
 
 ---
 
