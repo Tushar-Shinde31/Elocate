@@ -7,12 +7,12 @@
 ## Live Preview
 Here you can view the deployed version of **ELocate**: [Live Preview](#)
 
-![Project Screenshot 1](![Screenshot (217)](https://github.com/user-attachments/assets/43286efe-f17e-4f7f-b96f-668ec5beffe2)
+(https://github.com/user-attachments/assets/43286efe-f17e-4f7f-b96f-668ec5beffe2)
 )
-![Project Screenshot 2](![Screenshot (218)](https://github.com/user-attachments/assets/c088a72d-5c38-4533-8a4d-772b301dfb47)
+(https://github.com/user-attachments/assets/c088a72d-5c38-4533-8a4d-772b301dfb47)
 )
-![Project Screenshot 3](![Uploading Screenshot (219).png…]()
-)
+(https://github.com/user-attachments/assets/661cd538-045f-4169-a771-bf77fec049c2)
+
 
 ---
 
