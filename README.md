@@ -14,6 +14,18 @@ Click on the link below to view a demo of our prototype: [Prototype Video](#)
 
 ---
 
+## Setup
+To set up this project, run the following commands:
+
+```bash
+git clone https://github.com/shuence/ELocate
+cd ELocate
+yarn
+yarn dev
+```
+
+---
+
 ## Resources
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
