@@ -114,19 +114,5 @@ Building this project was an exciting and challenging journey during the **i-nno
 
 ---
 
-## About Us
-
-Hi, we are **Spam Byte!** 👋
-
-🚀 A team from **Deogiri Institute of Engineering and Management Studies, Chh. Sambhajinagar**:
-
-- **Krishna Dnyaneshwar Aute** - Krishna
-- **Shubham Vishnu Pitekar** - Shuence
-- **Dayeeta Chakravorty** - Dayeeta
-- **Samruddhi Shirish Giri** - Samruddhi
-- **Siddhi Sudhakar Tribhuwan** - Siddhi
-
----
-
 ## Happy Coding 💯
 Made with ❤️ by **Spam Byte**
